@@ -1,0 +1,19 @@
+Package: com.julioverne.lockdroid
+Architecture: iphoneos-arm
+Version: 0.0~beta8
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debians/com.julioverne.lockdroid_0.0_beta8_iphoneos-arm.deb
+Size: 203958
+MD5sum: 6d677573236e21de6015fd6de7397650
+SHA1: 0a04657ca3ea3dd7fb3c74293dd4cf18ef11eadd
+SHA256: 1d0d41cb70f9e337f772af280888ebb044c1640fd61a98aeb2de591b798590dc
+SHA512: 2a4ecdd2a82c25d6abf70edd9cb153be6f4f3db0183e528f1132071961ee81120a76c80121ee4ea5a31b56f23feb25a12e26348d401434f0be988e1f2f95853c
+Homepage: https://twitter.com/ijulioverne
+Description: Android Lockscreen
+Name: LockDroid
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/LockDroid.bundle/icon@2x.png
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.lockdroid
+

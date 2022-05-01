@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: ss192
+Components: main
+Date: Sun, 01 May 2022 20:58:55 +0000
+Description: I will post random tweaks here
+Label: SS192's Repo
+Origin: SS192's iOS Repository
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 09344548c7564e1341f2adddb570e5e0              835 Packages
+ d253b509786a04931a39499b33d8e3a2              606 Packages.bz2
+ 14df7bf54e308975fe2988052c06ff5d              557 Packages.gz
+ b8c857f3d96e5a2c8b108b12cb4dd1ec              624 Packages.xz
+ d295edc62bd36b934e643d35318c8bc0              555 Packages.zst
+ 625ae3ae11f2029b75fc5e05e1ee60a1              221 Release
+SHA1:
+ a54e1ca6001975d2bf013a57cea57d9177ef2e0f              835 Packages
+ 543a167b74e258a6bc5287f3eaab32a620bb2eb5              606 Packages.bz2
+ effd3415274950b48e9e5b80e204eecf77f76ba2              557 Packages.gz
+ 9a1e0425e2fbfe17e08d32a843854d102b264e76              624 Packages.xz
+ 8a7015b8ccc61c80c068c1da8f994495819c6390              555 Packages.zst
+ efa06ef1f2b6b5a56fe77a910279275aa13023d3              221 Release
+SHA256:
+ 5dd71cabd7fe33f77a6e3e05f06fcb1ca78af379b34fbf29e6dfe9fc1d6d339f              835 Packages
+ 457f76130b9c889083cb93d1f01ee0fbe5d52f240e70134f40a04fd097cb9f55              606 Packages.bz2
+ 65ce7e0b016c2e83eed363b4e4a1dc321ac13b3718b1e6baad43584b148bd7f5              557 Packages.gz
+ 302369af3ab0673b5a226d43f1dd25914a7b0235a2be55911dcf2814307ecfd8              624 Packages.xz
+ a92b68f720c789e8d3498634b4c55e29b8e5636facefd248dd9cbc5c24d15599              555 Packages.zst
+ c8bc7bebf3fed9cf4c6b4479cf095bca8dce4fe2bdb9cbb4623991e667f26a46              221 Release
+SHA512:
+ 7ba54bf13f1e499ca5d4e104d5b8810c2b52b67b9f8685cbeac8075de0f2c1a68253f723a755ca5329cf26352f53af63ed121f7376bd717ff6ed52b8e7806af4              835 Packages
+ 9151c7532f3fa7e72dbbdfae3f0d6211f7c8b4cec17d7f9a4d2d6ca958172abefc9e9e6d1d7161f3dc6617b462e345c86fb32aa58d42a60ba6b6e874f787c5ee              606 Packages.bz2
+ 1a126576bb0dbd885f4a185aab646ad99f63b65cd611de59183c71d440144f9786a90d32976a6fdd66d66fe898c646747a6b3659dfb20e25888bfe8a1ab5049e              557 Packages.gz
+ c642f0a8eba14c32481a6115b9dfb33a1407c570295d6951b3782cb27954e8afaa65de5e6079b91417b469a1dd6fbcb1659cd521fdcfca026f06434ebe3c8745              624 Packages.xz
+ d38519f472095710cd55629f17efcd5751deb40d110f08036fa9808cb09614f022a380daec8012d750d929ad796c777d216b7d3b1cb4cfa8fbb42b330244aa84              555 Packages.zst
+ b1ddc5b7d76d2d4bd0fe541c89f69aeb11e8ce55d99a864998cb59cf1411cf43611864df71cc9feb4e47f3cc4a35e1714d7e56ec04ac6a093b89371508633746              221 Release
