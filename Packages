@@ -15,5 +15,25 @@ Description: Android Lockscreen
 Name: LockDroid
 Author: julioverne
 Icon: file:///Library/PreferenceBundles/LockDroid.bundle/icon@2x.png
-Depiction: https://julioverne.github.io/description.html?id=com.julioverne.lockdroid
+Depiction: ./dep/tweak1/index.html
+
+Package: com.junesiphone.lockpluspro
+Architecture: iphoneos-arm
+Version: 2.4.1
+Section: Tweaks
+Maintainer: June <junesgraphics@gmail.com>
+Installed-Size: 56628
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.d11z.textyle, jp.akusio.milkyway, jp.akusio.milkyway2, com.yourepo.appleenterprise.nopassafterrespring
+Filename: ./debians/com.junesiphone.lockpluspro_2.4.1_iphoneos-arm-1.deb
+Size: 14681334
+MD5sum: c7d73cd7d389d14bb5755500b779545d
+SHA1: 87c5aebc5a6bcb5645c24e19ee8127537ece29f7
+SHA256: b6fb387314a128d8e4287f55d962f2f2d1f2975bacbf7616f7b2f453c774bdbf
+SHA512: 3cc3559b33f93f9a104540ccd8300fed44b6f8972376261efb619eecbe10fb9d7ed5c5f27d971683a6009546a578e9dbcbb8d19c817ece6f43609162de0660a1
+Description: The ultimate lock screen tweak!
+Tag: cydia::paid
+Name: LockPlus Pro
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: ./dep/lpp/index.html
 
